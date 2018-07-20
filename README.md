@@ -1,2 +1,1 @@
-###Git clone this project
-###Run npm start to see in localhost
+Git clone this project and Run npm start to see in localhost
